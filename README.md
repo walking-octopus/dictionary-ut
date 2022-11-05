@@ -5,7 +5,7 @@
 A beautiful Ubuntu Touch app to quickly lookup a word on Wikitionary.
 _________________________________
 
-<!--- <img src="https://open-store.io/screenshots/dict.walking-octopus-screenshot-______________.png" alt="Screenshot" width="200" /> -->
+<img src="https://open-store.io/screenshots/dict.walking-octopus-screenshot-bb9e937d-940e-4cf1-8545-feb6c34495fd.jpeg" alt="Screenshot" width="200" />
 
 ## Features:
  - Minimalist, slick design: A modern convergent design, focused on readability and simplicity.
